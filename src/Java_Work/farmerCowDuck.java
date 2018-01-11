@@ -1,4 +1,4 @@
-package java.work;
+package Java_Work;
 import java.util.Scanner;
 public class farmerCowDuck {
     static int duck=0,cow=0;
